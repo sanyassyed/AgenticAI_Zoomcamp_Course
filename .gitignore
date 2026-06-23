@@ -1,0 +1,8 @@
+# secrects
+.env
+
+# environment variables
+config.toml
+
+# vscode files
+
