@@ -1,8 +1,13 @@
-# secrects
+# virtual env
+.venv/
+# secrets
 .env
 
 # environment variables
 config.toml
 
 # vscode files
+
+# python files
+.python-version
 
